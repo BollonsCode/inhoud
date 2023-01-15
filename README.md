@@ -1,1 +1,1 @@
-# api-inhoud
+# inhoud -> Gerenciador de conteúdo
